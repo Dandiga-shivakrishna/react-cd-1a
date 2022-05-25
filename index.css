@@ -1,0 +1,18 @@
+.back {
+  background-color: #0f172a;
+  height: 100vh;
+  margin: 0px;
+}
+.content-center {
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+.heading {
+  color: #f8fafc;
+  font-family: "Roboto";
+}
+.img {
+  width: 100px;
+  height: 100px;
+}
